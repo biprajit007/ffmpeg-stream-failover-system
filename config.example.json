@@ -1,0 +1,4 @@
+{
+  "project": "ffmpeg-stream-failover-system",
+  "safe_defaults": true
+}
